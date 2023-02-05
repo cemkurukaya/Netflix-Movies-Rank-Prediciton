@@ -1,6 +1,5 @@
 """
 @author: Cem Baran KURUKAYA
-Student ID: 180201008
 """
 import pandas as pd
 import numpy as np
