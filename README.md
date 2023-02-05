@@ -54,7 +54,6 @@ dataset in supervised learning.
 
 ![image](https://user-images.githubusercontent.com/57721481/216833990-d68308f6-cae5-4ecc-b834-013c1d2f2875.png) ![image](https://user-images.githubusercontent.com/57721481/216834004-25207ded-8ea3-4aa7-91bd-ebf2efcf84cf.png)
 
-
 The same values represent the same genre. For example, all 4s are all
 the comedy genre.
 
@@ -104,11 +103,9 @@ After applying the linear regression and xgboost, we can now compare
 them. I made this comparison by looking at mean absolute error, r2
 score, and execution times.
 
-<img src="media/image3.png" style="width:6.26806in;height:1.11111in" />
+![image](https://user-images.githubusercontent.com/57721481/216834039-1116f77a-596d-458b-9329-73e14989cf7e.png)
 
-Figure 3 – Comparing
-
-As seen in Figure 3, the mean absolute error (mae) of Linear Regression
+As seen in the figure, the mean absolute error (mae) of Linear Regression
 is lower. It also runs faster, and has a higher r2 score. Considering
 all of this, we can say that Liner Regression is much better for this
 project.
