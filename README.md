@@ -1,4 +1,4 @@
-# netflixMoviesRankPrediciton
+# Netflix Movies Rank Preediction
 
 **Project Topic:** Prediction of Movie Ratings with Linear Regression
 and XGBoost
