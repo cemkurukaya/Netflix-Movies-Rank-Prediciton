@@ -46,14 +46,14 @@ them together in a single column.
 
 **Label Encoding**
 
-<img src="media/image1.png" style="width:2.19444in;height:2.60417in" />
 Label Encoding refers to converting the labels into a numeric form so as
 to convert them into the machine-readable form. Machine learning
 algorithms can then decide in a better way how those labels must be
 operated. It is an important pre-processing step for the structured
 dataset in supervised learning.
 
-<img src="media/image2.png" style="width:2.23958in;height:2.375in" />
+![image](https://user-images.githubusercontent.com/57721481/216833990-d68308f6-cae5-4ecc-b834-013c1d2f2875.png) ![image](https://user-images.githubusercontent.com/57721481/216834004-25207ded-8ea3-4aa7-91bd-ebf2efcf84cf.png)
+
 
 The same values represent the same genre. For example, all 4s are all
 the comedy genre.
